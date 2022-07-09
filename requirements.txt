@@ -1,0 +1,10 @@
+sklearn
+fastapi
+pandas
+pydantic
+keras
+tensorflow
+uvicorn
+h5py
+python-multipart
+
